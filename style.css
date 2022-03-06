@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-image: url(img2.jpeg);
+    background-size: cover;
+}
+
+.content{
+    padding-left: 10vw;
+    padding-top: 10vh;
+}
+
+h3{
+    color: cornsilk;
+    font-size:x-large;
+}
+h1{
+    color: cornsilk;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+p{
+    color: cornsilk;
+    font-size:x-large;
+}
+img{
+    height: 100vh;
+
+}
